@@ -19,5 +19,5 @@ The ABX Mock Exchange Client is a C# application that connects to a mock exchang
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/ABXClient.git
+   git clone https://github.com/Vikash-tech/ABXClient.git
    cd ABXClient
